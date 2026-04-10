@@ -72,7 +72,7 @@ Nosso foco é desenvolver aplicações completas, aplicando boas práticas de de
 
 <tr>
   <td>Lohanna Benjamim</td>
-  <td><a>href="https://github.com/lohannab">@lohannab</a></td>
+  <td><a href="https://github.com/lohannab">@lohannab</a></td>
 </tr>
 
 </table>
